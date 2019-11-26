@@ -1,2 +1,2 @@
 # PSDi
-Projeto Final Projeto de Sistemas Digitais
+Projeto Final da UC Projeto de Sistemas Digitais
